@@ -4,4 +4,4 @@ The sample uses:
 * Node.js
 * Express
 
-It is deployed on Heroku [here](http://somelink.com)
+It is deployed on Heroku [here](http://chattybox.herokuapp.com)
